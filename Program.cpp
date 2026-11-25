@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int price_of_item_1=12.95,price_of_item_2=24.95,price_of_item_3=6.95,price_of_item_4=14.95,price_of_item_5=3.95;
-    int sub_total=0,tax_price=0,total=0,tax_rate=6;
+    float price_of_item_1=12.95,price_of_item_2=24.95,price_of_item_3=6.95,price_of_item_4=14.95,price_of_item_5=3.95;
+    float sub_total=0,tax_price=0,total=0,tax_rate=6;
     cout<<"Price of item 1 = "<<price_of_item_1<<endl;
     cout<<"Price of item 2 = "<<price_of_item_2<<endl;
     cout<<"Price of item 3 = "<<price_of_item_3<<endl;
